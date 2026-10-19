@@ -1,0 +1,112 @@
+# 📚 Data Structures Practice in C
+
+Welcome to my **DS-Practice** repository! 🚀
+
+This repository contains my Data Structures practice programs, coding exercises, and solutions implemented in **C programming language**. The goal is to improve my problem-solving skills and strengthen my understanding of Data Structures.
+
+## 🎯 Objectives
+
+- Learn and implement Data Structures using C.
+- Practice coding problems regularly.
+- Understand algorithms and their time complexity.
+- Improve logical thinking and problem-solving skills.
+- Maintain a record of my learning journey.
+
+## 📂 Topics Covered
+
+- [ ] Basics of C Programming
+- [ ] Arrays
+- [ ] Strings
+- [ ] Pointers
+- [ ] Structures
+- [ ] Linked Lists
+- [ ] Stacks
+- [ ] Queues
+- [ ] Searching Algorithms
+- [ ] Sorting Algorithms
+- [ ] Recursion
+- [ ] Trees and Binary Trees
+- [ ] Binary Search Trees
+- [ ] Graphs
+- [ ] Hashing
+
+## 🛠️ Technologies Used
+
+- **Language:** C
+- **Compiler:** GCC
+- **Editor:** Visual Studio Code
+- **Version Control:** Git and GitHub
+
+## 📁 Repository Structure
+
+```text
+DS-Practice/
+├── README.md
+├── Arrays/
+├── Strings/
+├── Pointers/
+├── Linked-Lists/
+├── Stacks/
+├── Queues/
+├── Searching/
+├── Sorting/
+├── Recursion/
+├── Trees/
+└── Graphs/
+```
+
+## ▶️ How to Run the Programs
+
+1. Install a C compiler such as GCC.
+
+2. Clone this repository:
+
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/DS-Practice.git
+   ```
+
+3. Open the project folder in Visual Studio Code.
+
+4. Compile a C program:
+
+   ```bash
+   gcc filename.c -o program
+   ```
+
+5. Run the program:
+
+   **Windows:**
+
+   ```bash
+   .\program.exe
+   ```
+
+   **Linux/macOS:**
+
+   ```bash
+   ./program
+   ```
+
+## 📈 My Progress
+
+I will keep updating this repository as I learn new concepts and solve more problems.
+
+- [ ] Complete basic C programming
+- [ ] Practice arrays and strings
+- [ ] Implement linked lists, stacks, and queues
+- [ ] Learn searching and sorting algorithms
+- [ ] Practice trees and graphs
+
+## 🤝 Contributions
+
+This repository is primarily for my personal learning and practice. Suggestions and feedback are always welcome!
+
+## 📜 License
+
+This project is open for educational and learning purposes.
+
+---
+
+**⭐ Keep Learning. Keep Practicing. Keep Coding!**
+
+*Made with ❤️ using C.*
